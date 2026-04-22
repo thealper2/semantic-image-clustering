@@ -1,0 +1,11 @@
+hdbscan==0.8.41
+matplotlib==3.10.8
+mesop==1.2.7
+numpy==2.4.4
+Pillow==12.2.0
+Requests==2.33.1
+scikit_learn==1.8.0
+torch==2.10.0+cu128
+torchvision==0.25.0+cu128
+transformers==4.57.6
+umap_learn==0.5.11
